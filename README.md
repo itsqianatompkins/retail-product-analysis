@@ -3,7 +3,7 @@ Grind & Brew Coffee Co. is a multi-country specialty coffee retailer offering br
 
 As the company scaled, it adopted a data-driven approach to optimize pricing, product mix, inventory, and customer engagement. This report analyzes transactional retail data to identify key revenue drivers, customer preferences, pricing efficiency, and inventory dynamics to support smarter business decisions.
 
-#Overview
+# Overview
 
  - Identify which coffee types, roast profiles, and product sizes drive the highest revenue while distinguishing between revenue leaders and volume-driven items.
  - Evaluate average order value (AOV) across customers and regions and determine which products generate the strongest revenue per unit sold.
