@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Presentation - Grind   Brew" src="https://github.com/user-attachments/assets/7447499d-94c4-456b-aa94-eeb7bd40ce4e" />
+
+This case study uses fictional company data with legitimate analytical methods and is intended solely to demonstrate professional skills and capabilities while pursuing career opportunities.
+
 # Background
 Grind & Brew Coffee Co. is a multi-country specialty coffee retailer offering brewed beverages, espresso drinks, and packaged coffee in various roast profiles and sizes, catering to both casual customers and loyalty program members.
 
